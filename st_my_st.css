@@ -1,0 +1,147 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #faffff;
+}
+.left_side{
+	background-color: #01ab9f;
+	height: 700px;
+	width: 300px;
+	margin-left: 40px;
+	padding-top: 50px;
+}
+.left_side_inner{
+	height: 300px;
+	width: 220px;
+	background-color: floralwhite;
+	margin-left: 40px;
+	border-radius: 10px;
+}
+.imm{
+	padding-left: 26px;
+	padding-top: 20px;
+	border-radius: 10px;
+}
+.yosuva_text{
+	text-align: center;
+	color: #7a6f64;
+	 font-family: 'Courier New', monospace;
+}
+.contact{
+	padding-left: 26px;
+	padding-top: 30px;
+	color: whitesmoke;
+	font-family: Garamond, serif;
+}
+.hr1{
+	width: 250px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.di{
+	margin-left: 20px;
+	margin-top: 10px;
+	height: 0.5px;
+	width: 250px;
+	background-color: whitesmoke;
+}
+.tab{
+	padding-top: 1px;
+	padding-left: 10px;
+}
+.num{
+	color: whitesmoke;
+}
+.right_frame{
+	position: absolute;
+	right: 10px;
+	bottom: 560px;
+}
+.h1_right{
+	color: #01ab9f;
+	 font-family: 'Times New Roman', serif;
+	 font-size: 100px;
+}
+.p_right{
+	color:#797470 ;
+	text-align: right;
+	font-size: 20px;
+}
+.profile{
+	position: absolute;
+	right: 990px;
+	top: 150px;
+}
+.h1_profile{
+	 font-family: Copperplate, Papyrus, fantasy;
+	 color: #797470;
+}
+.hr_pro{
+	height: 1px;
+	width: 1050px;
+	background-color:#797470 ;
+	position: absolute;
+	left: 0px;
+	top: 50px;
+}
+.p_pro{
+	position: absolute;
+	top: 60px;
+	width: 800px;
+	left: 0px;
+}
+.pro_para{
+	font-family: "Courier New", Courier, monospace;
+	color: #98979d;
+}
+.h1_education{
+	padding-top: 40px;
+	font-family: Copperplate, Papyrus, fantasy;
+	 color: #797470;
+
+}
+.education_hr{
+	margin-top: 6px;
+	height: 1px;
+	width: 1050px;
+	background-color:#797470 ;
+
+}
+.tab_education{
+	padding-top: 20px;
+	font-family: "Courier New", Courier, monospace;
+	color: #98979d;
+}
+.linked_img{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.yosuva_linked{
+	color: whitesmoke;
+	padding-left: 20px;
+	position: relative;
+	left: 20px;
+	bottom: 4px;
+	font-style: italic;
+	text-decoration: none;
+}
+.facebook_img{
+	position: relative;
+	right: 4px;
+	top: 10px;
+}
+.end_hr{
+	position: absolute;
+	margin-top: 20px;
+	width: 1050px;
+	height: 0.5px;
+	background-color: black;
+}
+.thank{
+	margin-top: 50px;
+	font-family: "Courier New", Courier, monospace;
+	color: #98979d;
+	padding-left: 300px;
+}
